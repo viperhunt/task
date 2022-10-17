@@ -1,0 +1,35 @@
+There are two types of outputs
+=>browser js : we can get op on browser page
+=>node js    : we can get op on vs page 
+
+
+
+datatypes
+    
+    primitive
+    composite
+    trivial
+
+     (1)primitives
+          
+        number => \\ 1,2,3
+        string =>("")
+        boolean =>true, false
+
+    (2)composite
+        
+        arrays  =>
+        set of elements, 
+        group of elements, 
+        represented by[]
+       
+        objescts=>
+        always hve key and value as pair, 
+        represented by {}
+        2 ways can use in console dot operator, square brakets
+        console always shows the values in alphapatic order
+
+    (3)windows and objects 
+
+        window is a browser page were we can see outputs 
+        like a white page 
